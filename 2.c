@@ -39,6 +39,6 @@ int main()
        printf("Data successfully read from file example.c\n");
        printf("The file is now closed.") ;
    }
-   return 0;      
+   return 0;      /
 }
 
